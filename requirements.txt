@@ -5,3 +5,10 @@ google-cloud-translate
 google-cloud-texttospeech
 pydub
 numpy
+fastapi==0.115.0
+uvicorn==0.32.0
+google-cloud-speech==2.27.0
+google-cloud-translate==3.15.4
+google-cloud-texttospeech==2.16.3
+pydantic==2.9.2
+python-multipart==0.0.9
