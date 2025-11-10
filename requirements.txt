@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+google-cloud-speech
+google-cloud-translate
+google-cloud-texttospeech
+pydub
+numpy
